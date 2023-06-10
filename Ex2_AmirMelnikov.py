@@ -24,8 +24,11 @@ else:
     else:
         print("Sorry, price range is too low.")
 
-#Q4
-# For loops
+# Q4
+# For loops The 'end' parameter of the print() function is set to a space character so that each number is printed
+# on the same line with a space between them. There is another new line print '\n' to differentiate different problem
+# prints.
+
 for i in range(1, 8):
     print(i, end=" ")
 
