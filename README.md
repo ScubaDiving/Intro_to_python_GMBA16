@@ -7,7 +7,7 @@
 *** Don't forget to give the project a star!
 *** Thanks again! Now go create something AMAZING! :D
 -->
-
+git
 
 
 <!-- PROJECT SHIELDS -->
@@ -93,13 +93,7 @@
 ### Built With
 
 * [![Next][Next.js]][Next-url]
-* [![React][React.js]][React-url]
-* [![Vue][Vue.js]][Vue-url]
-* [![Angular][Angular.io]][Angular-url]
-* [![Svelte][Svelte.dev]][Svelte-url]
-* [![Laravel][Laravel.com]][Laravel-url]
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-* [![JQuery][JQuery.com]][JQuery-url]
+
 * [![Python][python.org]][python-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -109,31 +103,31 @@
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+Just download or view the files you need. You can set up notification using star.
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
-* npm
+Almost nothing, for now. Probably:
+* pandas
   ```sh
-  npm install npm@latest -g
+  pip install pandas
   ```
 
-### Installation
+### Installation (If you want to contribute)
 
-1. Get a free API Key at [https://example.com](https://example.com)
+1. Install git
 2. Clone the repo
    ```sh
    git clone https://github.com/ScubaDiving/Intro_to_python_GMBA16.git
    ```
-3. Install NPM packages
+3. use configure for seting up you user
    ```sh
-   npm install
+   git configure
    ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
+4. When your changes are done:
+   ```git
+   git commit -a
+   git push
    ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -154,10 +148,13 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 <!-- ROADMAP -->
 ## Roadmap
 
-- [ ] Feature 1
-- [ ] Feature 2
-- [ ] Feature 3
-    - [ ] Nested Feature
+- [X] Assignment 1
+  - [X] Repo Setup
+- [X] Assignment 2
+  - [X] Readme setup
+  - [X] Git setup
+- [ ] Assignment 3
+    - [ ] unknown yet
 
 See the [open issues](https://github.com/ScubaDiving/Intro_to_python_GMBA16/issues) for a full list of proposed features (and known issues).
 
@@ -186,7 +183,7 @@ Don't forget to give the project a star! Thanks again!
 <!-- LICENSE -->
 ## License
 
-Distributed under the MIT License. See `LICENSE.txt` for more information.
+Distributed under the GPL 3 License. See `LICENSE.txt` for more information.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -195,7 +192,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
+Amir Melnikov
 
 Project Link: [https://github.com/ScubaDiving/Intro_to_python_GMBA16](https://github.com/ScubaDiving/Intro_to_python_GMBA16)
 
